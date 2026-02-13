@@ -1,0 +1,7 @@
+in gihub -> readme file is a descriptive file
+in anker tag'href -> "#" take towards top of the page
+
+favicon.io -> It is use in link tag to put icon in url
+
+coolors -> for taking color pamplate
+font -> fonts.google.com
